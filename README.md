@@ -1,2 +1,2 @@
-# wibspicker
-WiB Spicker für die Ex am Donnerstag
+# spicker
+Aktueller Spicker für Proben und Exen.
